@@ -1,5 +1,3 @@
-# dbscan-optics-clustering
-
 # DBSCAN and OPTICS Clustering on Bank and Iris Datasets
 
 This project demonstrates the application of DBSCAN and OPTICS clustering algorithms on two different datasets: the **Bank dataset** and the **Iris dataset**. The goal is to explore density-based clustering techniques and evaluate their performance on real-world and benchmark datasets.
